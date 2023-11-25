@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ranks-test"
+version = "0.1.0"
+description = ""
+authors = ["Elnar Mengelbaev <elnar_men@mail.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+autoflake = "^2.2.1"
+black = "^23.11.0"
+flake8 = "^6.1.0"
+django = "^4.2.7"
+djangorestframework = "^3.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
