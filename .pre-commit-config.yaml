@@ -24,3 +24,5 @@ repos:
         args: [
           "--ignore=E501,W503",
         ]
+
+exclude: '\bmigrations\/.*\.py$'
