@@ -1,3 +1,5 @@
+Ссылка на опубликованную версию сервиса: [https://novatest.pythonanywhere.com/payment/item/1/](https://novatest.pythonanywhere.com/payment/item/1/)
+
 ## Как запустить
 Склонируйте репозиторий:
 ```
